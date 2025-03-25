@@ -1,16 +1,8 @@
-# weather_app_flutter
+# Weather App
 
-A new Flutter project.
+Flutter ve dart ile kodlanmış bir hava durumu uygulaması.
+Openweather API kullanılmıştır.
 
-## Getting Started
+<a><img src="https://github.com/user-attachments/assets/1b0e982a-1066-4000-8eb0-bb779d932b5a" width="200" /></a>
+<a><img src="https://github.com/user-attachments/assets/3a43932f-30ac-4ea3-9a85-6a7543091e7c" width="200" /></a>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
